@@ -7,10 +7,9 @@
 
 Full Stack Developer living in Abuja, Nigeria with 16+ years of experience in .NET, Node.js, Xamarin, React, Angular, Ionic, React Native, WebRTC, ElasticSearch, and more.
 
+---
+
 ### Stuff I'm really good at
-
-#### Languages
-
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
@@ -20,9 +19,6 @@ Full Stack Developer living in Abuja, Nigeria with 16+ years of experience in .N
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![C/AL](https://img.shields.io/badge/-C%2FAL-00599C?style=flat-square&logo=Microsoft%20Dynamics%20NAV&logoColor=white)
-
-#### Frameworks
-
 ![.NET MVC](https://img.shields.io/badge/-.NET%20MVC-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
@@ -35,18 +31,12 @@ Full Stack Developer living in Abuja, Nigeria with 16+ years of experience in .N
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white)
-
-#### Databases
-
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
-
-#### Other Tools
-
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
 ![Lucene](https://img.shields.io/badge/-Lucene-FF9C00?style=flat-square&logo=Apache%20Lucene&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white)
@@ -58,3 +48,12 @@ Full Stack Developer living in Abuja, Nigeria with 16+ years of experience in .N
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![C/AL](https://img.shields.io/badge/-C%2FAL-FF5722?style=flat-square&logo=Microsoft%20Dynamics%20NAV&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white)
+
+---
+
+### 📕 Latest Blog Posts
+- [Complete News/Blog API using NodeJS (Express), MongoDB with Swagger](https://markscodingspot.com/complete-news-blog-api-using-nodejs-express-mongodb-with-swagger)
+- [Send HTML Emails with Attachments using FluentEmail, C# and .NET 5](https://markscodingspot.com/send-html-emails-with-attachments-using-fluent-email-csharp-and-net-5)
+- [How to Create React Native (UI Kitten) Drawer and Bottom Tabs Navigation using React Navigation 5](https://markscodingspot.com/how-to-create-react-native-ui-kitten-drawer-and-bottom-tabs-navigation-using-react-navigation-5/)
+
+---
