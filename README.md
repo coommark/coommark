@@ -1,6 +1,6 @@
 # Hey, I'm [Mark](https://markscodingspot.com/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-coommark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coommark/)](https://www.linkedin.com/in/coommark/)
+[![Linkedin Badge](https://img.shields.io/badge/-melton-mark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melton-mark/)](https://www.linkedin.com/in/melton-mark/)
 [![Website Badge](https://img.shields.io/badge/-markscodingspot.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://markscodingspot.com)](https://markscodingspot.com)
 [![Youtube Badge](https://img.shields.io/badge/-MarksCodingSpot-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/MarksCodingSpot)](https://www.youtube.com/MarksCodingSpot)
 [![Gmail Badge](https://img.shields.io/badge/-coommark-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coommark@gmail.com)](mailto:coommark@gmail.com)
