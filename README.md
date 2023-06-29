@@ -32,8 +32,8 @@ I'm a full stack developer with 16+ years of experience working for companies in
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
 
 ---
 
