@@ -53,6 +53,14 @@ I'm a full stack developer with 16+ years of experience working for companies in
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white)
 
 ---
+
+### Latest Blog Posts
+- [Complete News/Blog API using NodeJS (Express), MongoDB with Swagger](https://markscodingspot.com/complete-news-blog-api-using-nodejs-express-mongodb-with-swagger)
+- [Send HTML Emails with Attachments using FluentEmail, C# and .NET 5](https://markscodingspot.com/send-html-emails-with-attachments-using-fluent-email-csharp-and-net-5)
+- [How to Create React Native (UI Kitten) Drawer and Bottom Tabs Navigation using React Navigation 5](https://markscodingspot.com/how-to-create-react-native-ui-kitten-drawer-and-bottom-tabs-navigation-using-react-navigation-5/)
+
+---
+
 ### Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -62,8 +70,3 @@ I'm a full stack developer with 16+ years of experience working for companies in
 <!-- END YOUTUBE-CARDS -->
 
 ---
-
-### Latest Blog Posts
-- [Complete News/Blog API using NodeJS (Express), MongoDB with Swagger](https://markscodingspot.com/complete-news-blog-api-using-nodejs-express-mongodb-with-swagger)
-- [Send HTML Emails with Attachments using FluentEmail, C# and .NET 5](https://markscodingspot.com/send-html-emails-with-attachments-using-fluent-email-csharp-and-net-5)
-- [How to Create React Native (UI Kitten) Drawer and Bottom Tabs Navigation using React Navigation 5](https://markscodingspot.com/how-to-create-react-native-ui-kitten-drawer-and-bottom-tabs-navigation-using-react-navigation-5/)
