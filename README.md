@@ -1,4 +1,4 @@
-# Hey, I'm [Mark](https://markscodingspot.com/)
+# Hi, I'm [Mark](https://markscodingspot.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-melton--mark-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melton-mark/)](https://www.linkedin.com/in/melton-mark/)
 [![Website Badge](https://img.shields.io/badge/-markscodingspot.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://markscodingspot.com)](https://markscodingspot.com)
