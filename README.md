@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-MarksCodingSpot-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/MarksCodingSpot)](https://www.youtube.com/MarksCodingSpot)
 [![Gmail Badge](https://img.shields.io/badge/-coommark-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coommark@gmail.com)](mailto:coommark@gmail.com)
 
-I'm a full stack developer with 16+ years of experience working for companies in Nigeria and across the Atlantic using .NET, Node.js, Xamarin, React, Angular, Ionic, React Native, WebRTC, ElasticSearch and more (**see "Stuff I'm really good at" below**).
+I'm a full stack developer with 16+ years of experience working for companies in Nigeria and across the Atlantic using .NET, Node.js, Xamarin, React, React Native, Angular, Ionic, WebRTC, ElasticSearch and more (**see "Stuff I'm really good at" below**).
 
 ---
 
